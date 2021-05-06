@@ -1,0 +1,30 @@
+.site-header{
+    background-color: aqua;
+    color: darkgoldenrod;
+    height: 100vh;
+    font-family:Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+    box-shadow: black 2px 5px 5px;
+}
+
+.site-header-content{
+    margin:10px;
+}
+
+.course-link{
+    color: darkgoldenrod;
+}
+
+body{
+    margin: 0;
+}
